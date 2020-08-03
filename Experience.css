@@ -1,0 +1,42 @@
+body{
+  background-image: url(/images/macbook.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-size: 1.5rem;
+  color: rgb(0, 252, 252);
+  }
+ 
+.div-background{
+  margin-top: 30px;
+  padding-top: 20px;
+ border-radius:  20px;
+ overflow: auto;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 700;
+  list-style-type: none;
+  margin: 0 20px;
+  padding: 0 ;
+}
+
+.link-names{
+  font-size: 4rem; 
+}
+.Experience{
+  text-shadow: 5px 5px 15px #222;
+  text-align: center;
+  
+}
+
+ul{
+ margin-left: -30px;
+}
+a{
+  color: rgb(0, 252, 252);
+}
+a:hover{
+  color: #147cdd;
+}
